@@ -1,5 +1,6 @@
  Randomize-AI: Machine Learning
  ====
+ ![alt text](https://gph.is/2KGI1ig)
 ## Intro to Numpy and Pandas	
 ### (Anaconda, spyder, jupyter)
 #### Getting Familiar with:
