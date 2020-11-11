@@ -3,7 +3,7 @@
 ## Intro to Numpy and Pandas	
 ### (Anaconda, spyder, jupyter)
 #### Getting Familiar with:
-[*Link to Week 1's Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%201.ipynb)
+[*Link to Week 1's Jupyter Notebook*](https://github.com/subhankar01/Randomize-AI/blob/main/Machine%20learning/basic_intro.ipynb)
 * Numpy
 * Pandas
 * Matplotlib
