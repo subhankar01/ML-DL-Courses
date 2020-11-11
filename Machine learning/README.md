@@ -20,7 +20,7 @@
 
 
 ## Regression Algorithms:
-[*Link to the Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%203.ipynb)
+[*Link to the Jupyter Notebook*](https://github.com/subhankar01/Randomize-AI/blob/main/Machine%20learning/regression.ipynb)
 * Linear Regression
 * Multiple Linear Regression
 * Polynomial Regression
