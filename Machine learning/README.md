@@ -27,7 +27,7 @@
 
 
 ## Classification Algorithms:
-[*Link to the Jupyter Notebook*]https://github.com/subhankar01/Randomize-AI/blob/main/Machine%20learning/classification.ipynb)
+[*Link to the Jupyter Notebook*](https://github.com/subhankar01/Randomize-AI/blob/main/Machine%20learning/classification.ipynb)
 * Logistic Regression
 * K-Nearest Neighbours
 * Support Vector Classifier
