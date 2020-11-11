@@ -3,13 +3,13 @@
 ## Intro to Numpy and Pandas	
 ### (Anaconda, spyder, jupyter)
 #### Getting Familiar with:
-[*Link to Week 1's Jupyter Notebook*](https://github.com/subhankar01/Randomize-AI/blob/main/Machine%20learning/basic_intro.ipynb)
+[*Link to the Jupyter Notebook*](https://github.com/subhankar01/Randomize-AI/blob/main/Machine%20learning/basic_intro.ipynb)
 * Numpy
 * Pandas
 * Matplotlib
 
 ## Basic Data pre-processing:
-[*Link to Week 2's Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%202.ipynb)
+[*Link to the Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%202.ipynb)
 * One Hot encoding
 * Label Encoding
 * Normalization
@@ -20,14 +20,14 @@
 
 
 ## Regression Algorithms:
-[*Link to Week 3's Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%203.ipynb)
+[*Link to the Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%203.ipynb)
 * Linear Regression
 * Multiple Linear Regression
 * Polynomial Regression
 
 
 ## Classification Algorithms:
-[*Link to Week 4's Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%204.ipynb)
+[*Link to the Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%204.ipynb)
 * Logistic Regression
 * K-Nearest Neighbours
 * Support Vector Classifier
@@ -37,7 +37,7 @@
 
 
 ## Bias vs Variance Trade off
-[*Link to Week 5's Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%205.ipynb)
+[*Link to the Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%205.ipynb)
 * OverFitting
 * UnderFitting
 * Regularization
@@ -45,13 +45,13 @@
 
 
 ## Clustering Algorithms:
-[*Link to Week 6's Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%206.ipynb)
+[*Link to the Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%206.ipynb)
 * K-means Clustering
 * Hierarchical Clustering
 
 
 ## Dimensionality Reduction:
-[*Link to Week 7's Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%207.ipynb)
+[*Link to the Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%207.ipynb)
 * PCA
 * LDA
 * Kernel PCA
@@ -62,6 +62,6 @@
 * Grid Search
 
 ## An introduction to Boosting
-[*Link to Week 8's Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%208.ipynb)
+[*Link to the Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%208.ipynb)
 * Gradient Boosting
 * XGBoost
