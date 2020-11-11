@@ -9,7 +9,7 @@
 * Matplotlib
 
 ## Basic Data pre-processing:
-[*Link to the Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%202.ipynb)
+[*Link to the Jupyter Notebook*](https://github.com/subhankar01/Randomize-AI/blob/main/Machine%20learning/data_pre-processing.ipynb)
 * One Hot encoding
 * Label Encoding
 * Normalization
@@ -27,7 +27,7 @@
 
 
 ## Classification Algorithms:
-[*Link to the Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%204.ipynb)
+[*Link to the Jupyter Notebook*]https://github.com/subhankar01/Randomize-AI/blob/main/Machine%20learning/classification.ipynb)
 * Logistic Regression
 * K-Nearest Neighbours
 * Support Vector Classifier
@@ -37,7 +37,7 @@
 
 
 ## Bias vs Variance Trade off
-[*Link to the Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%205.ipynb)
+[*Link to the Jupyter Notebook*](https://github.com/subhankar01/Randomize-AI/blob/main/Machine%20learning/bias_variance.ipynb)
 * OverFitting
 * UnderFitting
 * Regularization
@@ -45,13 +45,13 @@
 
 
 ## Clustering Algorithms:
-[*Link to the Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%206.ipynb)
+[*Link to the Jupyter Notebook*](https://github.com/subhankar01/Randomize-AI/blob/main/Machine%20learning/clustering.ipynb)
 * K-means Clustering
 * Hierarchical Clustering
 
 
 ## Dimensionality Reduction:
-[*Link to the Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%207.ipynb)
+[*Link to the Jupyter Notebook*](https://github.com/subhankar01/Randomize-AI/blob/main/Machine%20learning/dimensionality_reduction.ipynb)
 * PCA
 * LDA
 * Kernel PCA
@@ -62,6 +62,6 @@
 * Grid Search
 
 ## An introduction to Boosting
-[*Link to the Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%208.ipynb)
+[*Link to the Jupyter Notebook*](https://github.com/subhankar01/Randomize-AI/blob/main/Machine%20learning/boosting.ipynb)
 * Gradient Boosting
 * XGBoost
