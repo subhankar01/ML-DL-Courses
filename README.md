@@ -1,1 +1,1 @@
-# Randomize-AI
+# Machine Learning and Deep Learning Resources
