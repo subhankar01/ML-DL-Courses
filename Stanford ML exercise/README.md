@@ -1,6 +1,6 @@
 # Stanford ML exercises and solutions
 
-These exercises are a part of the assignments in the course [Machine Learning by Andrew Ng on Coursera Offered by Stanford University](https://www.coursera.org/learn/machine-learning?skipBrowseRedirect=true)500
+These exercises are a part of the assignments in the course [Machine Learning by Andrew Ng on Coursera Offered by Stanford University](https://www.coursera.org/learn/machine-learning?skipBrowseRedirect=true)
 <img src="https://github.com/subhankar01/ML-DL-Courses/blob/main/Stanford%20ML%20exercise/machine-learning-stanford-andrew-ng-course.png" width="1000" height="500">
 
 ## Word of Caution and a Genuine Request as a Mentor❗️
